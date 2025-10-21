@@ -1,0 +1,15 @@
+# Build artifacts
+/build/
+bin/
+obj/
+
+# common compiled filenames
+*.o
+*.obj
+*.exe
+a.out
+*.out
+
+# IDE / editor
+.vscode/
+*.swp
