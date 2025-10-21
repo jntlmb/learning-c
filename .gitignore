@@ -4,6 +4,7 @@ bin/
 obj/
 
 # common compiled filenames
+executable
 *.o
 *.obj
 *.exe
